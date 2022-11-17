@@ -67,7 +67,7 @@
   <dd>The process of distributing computing workloads across multiple resources, such as servers. In cloud computing, a load balancer acts as a reverse proxy and distributes application traffic to multiple servers in order to prevent any single application server from becoming a point of failure.</dd>
 </dl>
 
-dl>
+<dl>
   <dt>Microservices</dt>
   <dd>Small, independently deployable services that work together to form complex applications. These services communicate with each other using language-independent APIs, making them easy to scale and deploy.</dd>
 </dl>
@@ -100,6 +100,7 @@ dl>
 </dl>
 
 ## T-Z
+<dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
 </dl>
