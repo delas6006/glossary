@@ -54,7 +54,7 @@
 
 <dl>
   <dt>Google Cloud Platform (GCP)</dt>
-  <dd>A set of cloud computing services offered by Google, Inc..</dd>
+  <dd>A set of cloud computing services offered by Google, Inc.</dd>
 </dl>
 
 <dl>
