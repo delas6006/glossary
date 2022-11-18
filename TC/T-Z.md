@@ -87,7 +87,7 @@
 </dl>
 <dl>
   <dt>	UX (User Experience)	</dt>
-  <dd>	All aspects of a user's interaction with a company, their product,content, documentation, employees, etc.	
+  <dd>	All aspects of a user's interaction with a company, their product,content, documentation, employees, etc.	</dd>
 </dl>
 
 ## V
