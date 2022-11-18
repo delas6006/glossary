@@ -6,3 +6,6 @@ The following glossaries are available:
 * [Glossary of Technical Communication Terminology](https://github.com/Laura-Novich-OBW/glossary/tree/main/TC)
 * Glossary of Cybersecurity Terminology (coming **soon**!!)
 * Glossary of Big Data Terminology (coming **soon**!!)
+* Glossary of Cloud/SaaS Terminology (coming **soon**!!)
+* Glossary of Fin-Tech Terminology (coming **soon**!!)
+* Glossary of Bio-Tech Terminology (coming **soon**!!)
