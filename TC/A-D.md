@@ -1,11 +1,11 @@
 # A-D
-_**A**_
+## A
 <dl>
    <dt>	Attributes	</dt>
    <dd>	Extend Elements, has values.	</dd>
 </dl>
 
-_**B**_ 
+## B
 <dl>
    <dt>	Backlog	</dt>
    <dd>	Place where items that are not assigned to a sprint are held.	</dd>
@@ -15,7 +15,7 @@ _**B**_
    <dd>	The body tag contains all of the content of the page.	</dd>
 </dl>
 
-_**C**_  
+## C 
 <dl>
    <dt>	Callout	</dt>
    <dd>	A specific type of annotation that includes a line and text. Used to label parts of a graphic.	</dd>
@@ -63,7 +63,7 @@ _**C**_
    <dd>	Describes how HTML is to be displayed per single  page / entire site.	</dd>
 </dl>
 
-_**D**_  
+## D
 <dl>
    <dt>	De facto (by practice)	</dt>
    <dd>	Rules or guidelines that are random, arbitrary, "the way we have always done things," etc.	</dd>
