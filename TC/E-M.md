@@ -117,7 +117,6 @@
    <dt>	Jump	</dt>
    <dd>	Another term for a link to another topic.	</dd>
 </dl>
-<dl>
   
 ## K
   
@@ -127,7 +126,7 @@
 </dl>
   
 ## L
-  
+
 <dl>
    <dt>	L10N (Localization)	</dt>
    <dd>	The process of adapting content for a particular market and audience.	</dd>
