@@ -3,7 +3,7 @@
 This is a student project where we created glossaries for technical communicators. 
 
 The following glossaries are available:
-* [Glossary of Technical Communication Terminology](TC/)
+* [Glossary of Technical Communication Terminology](TC/README.md)
 * Glossary of Cybersecurity Terminology (coming **soon**!!)
 * Glossary of Big Data Terminology (coming **soon**!!)
 * Glossary of Cloud/SaaS Terminology (coming **soon**!!)
