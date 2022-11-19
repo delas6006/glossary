@@ -1,6 +1,6 @@
 # Glossary of Cybersecurity Terminology
 **Contributors**
-#### Andrea Parkins
+#### [Andrea Parkins](https://github.com/)
 #### [Mindy Steen](https://github.com/mindys360/glossary)
 ## A
 <dl>
