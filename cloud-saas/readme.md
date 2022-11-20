@@ -1,6 +1,6 @@
 # Glossary of Cloud / SaaS Terms
 
-## A-D
+## A
 
 <dl>
    <dt>Amazon Web Services (AWS)</dt>
@@ -8,6 +8,7 @@
 	</dd>
 </dl>
 
+## C
 <dl>
    <dt>Cloud Computing</dt>
    <dd>	A way of delivering data and software via the internet (“the cloud”). In cloud computing, infrastructure, data, and software are hosted by a service provider, which delivers these services to users.
@@ -50,23 +51,26 @@
 </dd>
 </dl>
 
-## E-M
+## G
 
 <dl>
   <dt>Google Cloud Platform (GCP)</dt>
   <dd>A set of cloud computing services offered by Google, Inc.</dd>
 </dl>
 
+## H
 <dl>
   <dt>Hybrid Cloud</dt>
   <dd>A cloud computing environment that combines a cloud server and a local server.</dd>
 </dl>
 
+## L
 <dl>
   <dt>Load Balancing </dt>
   <dd>The process of distributing computing workloads across multiple resources, such as servers. In cloud computing, a load balancer acts as a reverse proxy and distributes application traffic to multiple servers in order to prevent any single application server from becoming a point of failure.</dd>
 </dl>
 
+## M
 <dl>
   <dt>Microservices</dt>
   <dd>Small, independently deployable services that work together to form complex applications. These services communicate with each other using language-independent APIs, making them easy to scale and deploy.</dd>
@@ -77,8 +81,7 @@
   <dd>Microsoft's cloud computing service. Azure provides PaaS and IaaS services. It was originally launched as a PaaS solution but now provides both PaaS and IaaS.</dd>
 </dl>
 
-## N-S
-
+## P
 <dl>
   <dt>Personal Cloud</dt>
   <dd>An example of cloud washing. Personal Cloud is a marketing term used to describe a server connected to a network that provides data storage services to other devices on the network.</dd>
@@ -89,6 +92,7 @@
   <dd>A cloud service that is exclusively dedicated to one customer or organization and is hosted on the organization’s own infrastructure.</dd>
 </dl>
 
+## S
 <dl>
   <dt>Serverless</dt>
   <dd>A method of using a cloud service to build and run applications without having to manage servers. For example, Amazon’s AWS Lambda.</dd>
@@ -97,15 +101,4 @@
 <dl>
   <dt>Software as a Service (SaaS)</dt>
   <dd>A type of cloud computing service that provides a cloud application to end users through a network, usually the internet. SaaS applications are hosted by a vendor and provided to end users on a pay-for-use basis or as a subscription.</dd>
-</dl>
-
-## T-Z
-<dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-</dl>
-
-<dl>
-  <dt>Second Term</dt>
-  <dd>This is the definition of the second term.</dd>
 </dl>
