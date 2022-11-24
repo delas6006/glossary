@@ -1,6 +1,8 @@
 # Glossary of Cybersecurity Terminology
+This glossary contains terms and definitions that are relevant to Cybersecurity.
+
 **Contributors**
-#### [Andrea Parkins](https://github.com/)
+#### [Andrea Parkins](github.com/akparkins)
 #### [Mindy Steen](https://github.com/mindys360/glossary)
 ## A
 <dl>
