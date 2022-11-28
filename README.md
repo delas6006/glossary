@@ -5,7 +5,7 @@ This is a student project where we created glossaries for technical communicator
 The following glossaries are available:
 * [Glossary of Technical Communication Terminology](TC/README.md)
 * [Glossary of Cybersecurity Terminology](cyber/readme.md)
-* Glossary of Big Data Terminology (coming **soon**!!)
+* [Glossary of Big Data Terminology](big-data/readme.md)
 * Glossary of Cloud/SaaS Terminology (coming **soon**!!)
 * Glossary of Fin-Tech Terminology (coming **soon**!!)
 * Glossary of Bio-Tech Terminology (coming **soon**!!)
