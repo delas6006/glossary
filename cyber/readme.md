@@ -1,5 +1,9 @@
 # Glossary of Cybersecurity Terminology
-This glossary contains terms and definitions that are relevant to Cybersecurity.
+
+This Glossary is a Team Project at Our Best Words Technical Writing Communications Course. The purpose of the project is to demonstrate the Contributors' ability to create content in Markdown. 
+
+The glossary consists of terms and definitions that are relevant to Cybersecurity. The intended audience is other students who may need a quick reference to the terminology but all are welcome.
+
 
 **Contributors**
 #### [Andrea Parkins](github.com/akparkins)
