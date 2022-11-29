@@ -1,13 +1,21 @@
 # Glossary of Cybersecurity Terminology
 
-This Glossary is a Team Project at Our Best Words Technical Writing Communications Course. The purpose of the project is to demonstrate the Contributors' ability to create content in Markdown. 
+This glossary consists of terms and definitions that are relevant to Cybersecurity. 
 
-The glossary consists of terms and definitions that are relevant to Cybersecurity. The intended audience is other students who may need a quick reference to the terminology but all are welcome.
+The glossary is a team project at Our Best Words Technical Writing Communications Course. The project aims to demonstrate the Contributors' ability to generate content in Markdown by creating glossaries for technical terminology in different fields.
 
+The intended audience is other students who may need a quick reference to the terminology, but all are welcome.**Contributors**
 
-**Contributors**
+The students who worked on the Cybersecurity Glossary include:
+
+## Contributors
+
 #### [Andrea Parkins](github.com/akparkins)
 #### [Mindy Steen](https://github.com/mindys360/glossary)
+
+Click on the letter to go to the term:  
+[A](A-D.md#a) &nbsp; B  &nbsp; c  &nbsp; [D](A-D.md#d) &nbsp; [E](E-M.md#e) &nbsp; [F](E-M.md#f) &nbsp; G  &nbsp; [H](E-M.md#h) &nbsp;  I  &nbsp; J  &nbsp; K  &nbsp; L  &nbsp; [M](E-M.md#m) &nbsp;  O  &nbsp; B  &nbsp; [P](O-S.md#p) &nbsp; Q  &nbsp; [R](O-S.md#r) &nbsp; [S](O-S.md#s) &nbsp; [T](T-Z.md#t) &nbsp; U  &nbsp; [V](T-Z.md#v) &nbsp; [W](T-Z.md#w) &nbsp; X  &nbsp; Y  &nbsp;  Z  &nbsp; 
+
 ## A
 <dl>
 <dt>	Authentication	</dt>	
