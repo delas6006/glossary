@@ -1,3 +1,14 @@
+# Big Data Glossary  
+This project is a group project. The project includes a glossary of Big Data terminology. 
+Big Data is a term used to describe large amounts of data that can't be processed in the traditional way.  
+  
+[D](D.md##d) &nbsp; [F](F-H.md##F) &nbsp; [G](F-H.md##G) &nbsp; [H](F-H.md##H)  
+  
+## Contributors  
+[Amichai Klipstein](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Amichai-Klipstein)  
+[Rosalina Djedjo]  
+[Natan]
+
 <h2> D </h2>
 <dl>
   <dt>Data Aggregation</dt>
