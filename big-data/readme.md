@@ -6,8 +6,8 @@ Big Data is a term used to describe large amounts of data that can't be processe
   
 ## Contributors  
 [Amichai Klipstein](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Amichai-Klipstein)  
-[Rosalina Djedjo]  
-[Natan]
+[Natan Levitan](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Natan-Levitan)  
+[Rosalina Djedjo](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Rosalina-Djedjo)   
 
 <h2> D </h2>
 <dl>
