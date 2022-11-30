@@ -3,7 +3,7 @@ This project is a group project. The project includes a glossary of Big Data ter
 Big Data is a term used to describe large amounts of data that can't be processed in the traditional way.  
   
 Click on the letter to go to the term:  
-A &nbsp; B &nbsp; C &nbsp; [D](#d) &nbsp; E &nbsp; [F](#f) &nbsp; [G](#g) &nbsp; [H](#h) &nbsp; I &nbsp; J &nbsp; K &nbsp; L &nbsp; M &nbsp; N &nbsp; O &nbsp; P &nbsp; Q &nbsp; R &nbsp; S &nbsp; T &nbsp; U &nbsp; V &nbsp; W &nbsp; X &nbsp; Y &nbsp; Z
+A B C [D](#d) E [F](#f) [G](#g) [H](#h) I J K L M N O P Q R S T U V W X Y Z
   
 ## Contributors  
 [Amichai Klipstein](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Amichai-Klipstein)  
