@@ -1,5 +1,14 @@
 # Glossary of Cloud / SaaS Terms
-A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev and Jonathan Kemp worked on this.
+
+This project is a group project demonstrating creating content in Markdown. It contains a glossary of terms used in the Cloud and Software as a Service (SaaS) discipline. The project adds to the glossary of terms for Our Best Words.
+
+Click on the letter to go to the terms starting with that letter:
+[A](A-D.md#a) &nbsp; [B](A-D.md#a) &nbsp; [C](A-D.md#a) &nbsp; [D](A-D.md#a) &nbsp; [E](A-D.md#a) &nbsp; [F](A-D.md#a) &nbsp; [G](A-D.md#a) &nbsp; [H](A-D.md#a) &nbsp; [I](A-D.md#a) &nbsp; [J](A-D.md#a) &nbsp; [K](A-D.md#a) &nbsp; [L](A-D.md#a) &nbsp;[M](A-D.md#a) &nbsp; [N](A-D.md#a) &nbsp; [O](A-D.md#a) &nbsp; [P](A-D.md#a) &nbsp; [Q](A-D.md#a) &nbsp; [R](A-D.md#a) &nbsp; [S](A-D.md#a) &nbsp; [T](A-D.md#a) &nbsp; [U](A-D.md#a) &nbsp; [V](A-D.md#a) &nbsp; [W](A-D.md#a) &nbsp; [X](A-D.md#a) &nbsp; [Y](A-D.md#a) &nbsp; [Z](A-D.md#a) &nbsp;
+
+## Contributors
+
+* [Liat Regev] (https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Liat-Regev)
+* [Jonathan Kemp] (https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Jonathan-Kemp)
 
 ## A
 
