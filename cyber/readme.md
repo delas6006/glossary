@@ -8,12 +8,14 @@ The Glossary is a Team Project at Our Best Words Technical Writing Communication
 
 The intended audience is other students who may need a quick reference to the terminology, but all are welcome.
 
-The students who worked on the Cybersecurity Glossary include:
-
 ## Contributors
+
+The students who worked on the Cybersecurity Glossary include:
 
 #### [Andrea Parkins](github.com/akparkins)
 #### [Mindy Steen](https://github.com/mindys360/glossary)
+
+## Cybersecurity Glossary 
 
 Click on the letter to go to the term:  
 
