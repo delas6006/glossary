@@ -14,7 +14,9 @@ The students who worked on the Cybersecurity Glossary include:
 #### [Mindy Steen](https://github.com/mindys360/glossary)
 
 Click on the letter to go to the term:  
-[A](A-D.md#a) &nbsp; B  &nbsp; c  &nbsp; [D](A-D.md#d) &nbsp; [E](E-M.md#e) &nbsp; [F](E-M.md#f) &nbsp; G  &nbsp; [H](E-M.md#h) &nbsp;  I  &nbsp; J  &nbsp; K  &nbsp; L  &nbsp; [M](E-M.md#m) &nbsp;  O  &nbsp; B  &nbsp; [P](O-S.md#p) &nbsp; Q  &nbsp; [R](O-S.md#r) &nbsp; [S](O-S.md#s) &nbsp; [T](T-Z.md#t) &nbsp; U  &nbsp; [V](T-Z.md#v) &nbsp; [W](T-Z.md#w) &nbsp; X  &nbsp; Y  &nbsp;  Z  &nbsp; 
+
+[A]( #a) B C [D](#d) [E](#e) [F](#f) G [H](#h) I J K L [M](#m) N O [P](#p) Q [R](#r) [S](#s) [T](#t) U [V](#v) [W](#w) X Y Z  
+
 
 ## A
 <dl>
