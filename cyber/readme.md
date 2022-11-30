@@ -1,9 +1,27 @@
 # Glossary of Cybersecurity Terminology
-This glossary contains terms and definitions that are relevant to Cybersecurity.
 
-**Contributors**
+
+
+This glossary consists of terms and definitions that are relevant to Cybersecurity. 
+
+The Glossary is a Team Project at Our Best Words Technical Writing Communications Course. The project aims to demonstrate the Contributors' ability to generate content in Markdown by creating glossaries for technical terminology in different fields.
+
+The intended audience is other students who may need a quick reference to the terminology, but all are welcome.
+
+## Contributors
+
+The students who worked on the Cybersecurity Glossary include:
+
 #### [Andrea Parkins](github.com/akparkins)
 #### [Mindy Steen](https://github.com/mindys360/glossary)
+
+## Cybersecurity Glossary 
+
+Click on the letter to go to the term:  
+
+[A]( #a) B C [D](#d) [E](#e) [F](#f) G [H](#h) I J K L [M](#m) N O [P](#p) Q [R](#r) [S](#s) [T](#t) U [V](#v) [W](#w) X Y Z  
+
+
 ## A
 <dl>
 <dt>	Authentication	</dt>	
