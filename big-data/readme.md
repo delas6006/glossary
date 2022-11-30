@@ -3,14 +3,14 @@ This project is a group project. The project includes a glossary of Big Data ter
 Big Data is a term used to describe large amounts of data that can't be processed in the traditional way.  
   
 Click on the letter to go to the term:  
-[A](A-D.md#a) &nbsp; [B](A-D.md#b) &nbsp; [C](A-D.md#c) &nbsp; [D](A-D.md#d) &nbsp; [E](E-M.md#e) &nbsp; [F](E-M.md#f) &nbsp; [G](E-M.md#g) &nbsp; [H](E-M.md#h) &nbsp; [I](E-M.md#i) &nbsp; [J](E-M.md#j) &nbsp; [K](E-M.md#k) &nbsp; [L](E-M.md#l) &nbsp; [M](E-M.md#m) &nbsp;  N  &nbsp; [O](O-S.md#o) &nbsp; [P](O-S.md#p) &nbsp; [Q](O-S.md#q) &nbsp; [R](O-S.md#r) &nbsp; [S](O-S.md#s) &nbsp; [T](T-Z.md#t) &nbsp; [U](T-Z.md#u) &nbsp; [V](T-Z.md#v) &nbsp; [W](T-Z.md#w) &nbsp; [X](T-Z.md/#x) &nbsp; Y &nbsp;  Z 
+[A](#a) &nbsp; [B](#b) &nbsp; [C](#c) &nbsp; [D](#d) &nbsp; [E](#e) &nbsp; [F](#f) &nbsp; [G](#g) &nbsp; [H](#h) &nbsp; [I](#i) &nbsp; [J](#j) &nbsp; [K](#k) &nbsp; [L](#l) &nbsp; [M](#m) &nbsp;  [N](#n)  &nbsp; [O](#o) &nbsp; [P](#p) &nbsp; [Q](#q) &nbsp; [R](#r) &nbsp; [S](#s) &nbsp; [T](#t) &nbsp; [U](#u) &nbsp; [V](#v) &nbsp; [W](#w) &nbsp; [X](#x) &nbsp; [Y](#y) &nbsp; [Z](#z)
   
 ## Contributors  
 [Amichai Klipstein](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Amichai-Klipstein)  
 [Natan Levitan](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Natan-Levitan)  
 [Rosalina Djedjo](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Rosalina-Djedjo)   
 
-<h2> D </h2>
+## D
 <dl>
   <dt>Data Aggregation</dt>
   <dd>The process of collecting and summarizing data, making it efficient and easier to visualize and understand.</dd>
@@ -61,7 +61,8 @@ Click on the letter to go to the term:
   <dt>Document Management</dt>
   <dd>It refers to the use of a software to store, manage, and track electronic documents and images of paper-based information through a scanner.</dd>
 </dl>
-<h2> F </h2>  
+
+## F  
 <dl>
   <dt>Fuzzy Logic</dt>
   <dd>Computing definition. The approach to fuzzy logic is that there is a spectrum of answers, instead of the traditional true/false. For example, there can be various options on a controller, instead of only on/off.</dd>
@@ -70,7 +71,8 @@ Click on the letter to go to the term:
   <dt>Flume</dt>
   <dd>Log data software, used for collecting, aggregating and moving large amounts of computer-generated event data over a period of time. For example, Flume will display the amount of ERROR messages from the last week </dd>
 </dl>  
-<h2> G </h2>  
+
+## G 
 <dl>
   <dt>Graph Database</dt>
   <dd>A database used for displaying graphs in order to store and navigate relationships. The graphs are built with nodes and edges</dd>
@@ -83,7 +85,8 @@ Click on the letter to go to the term:
   <dt>Gamification</dt>
   <dd>A customer engagement tool. Gamification is a method of creating a game-like environment for non-gaming systems, engaging and motivating the customer to use the product</dd>
 </dl>  
-<h2> H </h2>  
+
+## H  
 <dl>
   <dt>Hadoop (Apache Hadoop)</dt>
   <dd>An open-source large-scale data analytics software used for solving computing and software problems on a network of many computers. </dd>
