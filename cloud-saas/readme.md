@@ -1,5 +1,17 @@
-# Glossary of Cloud / SaaS Terms
-A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev and Jonathan Kemp worked on this.
+# Glossary of Cloud / SaaS Terminology
+This glossary defines terms used in the Cloud and SaaS computing world. 
+
+The glossary is a team project for Our Best Words Technical Communication course. The project aims to show the contributors' skill at creating definitions and generating content in Markdown.
+
+## Contributors
+
+The students who worked on this project include:
+
+* [Jonathan Kemp]( https://github.com/jonathan-t-kemp)
+* [Liat Regev]( https://github.com/liat-regev)
+
+Click on the letter to go to the term:  
+[A](#a) [B](#b) [C](#c) D [E](#e) F [G](#g) [H](#h) [I](#i) J K [L](#l) [M](#m) N [O](#o) [P](#p) Q R [S](#s) T U V W X Y Z
 
 ## A
 
@@ -19,6 +31,11 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 ## C
 
 <dl>
+<dt>Cloud Backup</dt>
+  <dd>A service, in which an organization's data is copied and stored on a remote server, typically in the cloud.</dd>
+</dl>
+	
+<dl>
    <dt>Cloud Computing</dt>
    <dd>	A way of delivering data and software via the internet (“the cloud”). In cloud computing, infrastructure, data, and software are hosted by a service provider, which delivers these services to users.
 	</dd>
@@ -29,6 +46,11 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
   <dd>Software that allows users to manage their different cloud environments (public, private, and hybrid cloud) from one console.</dd>
 </dl>
 
+<dl>
+  <dt>Cloud Marketplace</dt>
+  <dd>An online store, operated by a Cloud Service Provider (CSP). Users can browse and buy applications that run on a cloud service, or subscribe to software. Examples are Amazon’s AWS marketplace and Microsoft’s Azure marketplace.</dd>
+</dl>
+	
 <dl>
   <dt>Cloud Migration</dt>
   <dd>The process of transferring a company’s data and applications from the company’s local servers to the cloud, or moving them from one cloud environment to another (cloud-to-cloud migration).</dd>
@@ -55,42 +77,19 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 </dl>
 
 <dl>
-  <dt>Content Delivery Network (CDN)</dt>
-  <dd>An interconnected group of servers located in different places that work together to provide fast delivery of internet content. A CDN stores static content like images and style sheets for a website on geographically distributed servers. CDN improves a website’s speed by loading the static content from the closest CDN server.
-</dd>
-</dl>
-
-## G
-
-<dl>
-  <dt>Google Cloud Platform (GCP)</dt>
-  <dd>A set of cloud computing services offered by Google, Inc.</dd>
-</dl>
-
-## H
-<dl>
-  <dt>Hybrid Cloud</dt>
-  <dd>A cloud computing environment that combines a cloud server and a local server.</dd>
-</dl>
-
-## L
-<dl>
-  <dt>Load Balancing </dt>
-  <dd>The process of distributing computing workloads across multiple resources, such as servers. In cloud computing, a load balancer acts as a reverse proxy and distributes application traffic to multiple servers in order to prevent any single application server from becoming a point of failure.</dd>
-  <dt>Cloud Backup</dt>
-  <dd>A service, in which an organization's data is copied and stored on a remote server, typically in the cloud.</dd>
-</dl>
-<dl>
-  <dt>Cloud Marketplace</dt>
-  <dd>An online store, operated by a Cloud Service Provider (CSP). Users can browse and buy applications that run on a cloud service, or subscribe to software. Examples are Amazon’s AWS marketplace and Microsoft’s Azure marketplace.</dd>
-</dl>
-<dl>
   <dt>Cloud Washing</dt>
   <dd>A term, that suggests that an old product has been brought back and now exists within the cloud. To piggyback on the popularity of cloud services.</dd>
 </dl>
+	
 <dl>
   <dt>Container</dt>
   <dd>An area, for holding packages of software that create a virtual operating system. These can then be accessed anywhere for limited tasks.</dd>
+</dl>
+
+<dl>
+  <dt>Content Delivery Network (CDN)</dt>
+  <dd>An interconnected group of servers located in different places that work together to provide fast delivery of internet content. A CDN stores static content like images and style sheets for a website on geographically distributed servers. CDN improves a website’s speed by loading the static content from the closest CDN server.
+</dd>
 </dl>
 
 ## E
@@ -103,13 +102,31 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
   <dt>Extensibility</dt>
   <dd>A cloud solution, which allows run time to be added and framework support, via community buildpacks.</dd>
 </dl>
+	
+## G
 
+<dl>
+  <dt>Google Cloud Platform (GCP)</dt>
+  <dd>A set of cloud computing services offered by Google, Inc.</dd>
+</dl>
+
+## H
+<dl>
+  <dt>Hybrid Cloud</dt>
+  <dd>A cloud computing environment that combines a cloud server and a local server.</dd>
+</dl>
+	
 ## I
 
 <dl>
   <dt>Infrastructure as a Service (IaaS)</dt>
   <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
 </dl>
+
+## L
+<dl>
+  <dt>Load Balancing </dt>
+  <dd>The process of distributing computing workloads across multiple resources, such as servers. In cloud computing, a load balancer acts as a reverse proxy and distributes application traffic to multiple servers in order to prevent any single application server from becoming a point of failure.</dd>
 
 ## M
 
@@ -121,6 +138,27 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 <dl>
   <dt>Microsoft Azure</dt>
   <dd>Microsoft's cloud computing service. Azure provides PaaS and IaaS services. It was originally launched as a PaaS solution but now provides both PaaS and IaaS.</dd>
+</dl>
+
+<dl>
+<dt>Multi-Cloud</dt>
+  <dd>Cloud storage, where a company uses at least two suppliers. This is to reduce the reliance on one system.</dd>
+</dl>
+
+<dl>
+  <dt>Multi-Tenancy</dt>
+  <dd>One instance of the software is accessed by several tenants linked together. It provides each tenant with access to data, configuration, user management, tenant individual functionality, and non-functional properties.</dd>
+</dl>
+
+## O
+
+<dl>
+  <dt>On-Demand Self Service</dt>
+  <dd>A service, where a consumer can access software on the cloud without any human intervention.</dd>
+</dl>
+<dl>
+  <dt>On-Premise</dt>
+  <dd>Data servers, where a series of servers is owned privately, and privately controlled.</dd>
 </dl>
 
 ## P
@@ -145,21 +183,4 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 <dl>
   <dt>Software as a Service (SaaS)</dt>
   <dd>A type of cloud computing service that provides a cloud application to end users through a network, usually the internet. SaaS applications are hosted by a vendor and provided to end users on a pay-for-use basis or as a subscription.</dd>
-  <dt>Multi-Cloud</dt>
-  <dd>Cloud storage, where a company uses at least two suppliers. This is to reduce the reliance on one system.</dd>
-</dl>
-<dl>
-  <dt>Multi-Tenancy</dt>
-  <dd>One instance of the software is accessed by several tenants linked together. It provides each tenant with access to data, configuration, user management, tenant individual functionality, and non-functional properties.</dd>
-</dl>
 
-## O
-
-<dl>
-  <dt>On-Demand Self Service</dt>
-  <dd>A service, where a consumer can access software on the cloud without any human intervention.</dd>
-</dl>
-<dl>
-  <dt>On-Premise</dt>
-  <dd>Data servers, where a series of servers is owned privately, and privately controlled.</dd>
-</dl>
