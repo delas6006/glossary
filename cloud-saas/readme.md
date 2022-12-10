@@ -13,6 +13,7 @@ The students who worked on this project include:
 Click on the letter to go to the term:  
 [A](#a) [B](#b) [C](#c) D [E](#e) F [G](#g) [H](#h) [I](#i) J K [L](#l) [M](#m) N [O](#o) [P](#p) Q R [S](#s) T U V W X Y Z
 
+
 ## A
 
 <dl>
@@ -102,7 +103,7 @@ Click on the letter to go to the term:
   <dt>Extensibility</dt>
   <dd>A cloud solution, which allows run time to be added and framework support, via community buildpacks.</dd>
 </dl>
-	
+
 ## G
 
 <dl>
@@ -123,6 +124,13 @@ Click on the letter to go to the term:
   <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
 </dl>
 
+## I
+
+<dl>
+  <dt>Infrastructure as a Service (IaaS)</dt>
+  <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
+</dl>
+
 ## L
 <dl>
   <dt>Load Balancing </dt>
@@ -133,6 +141,7 @@ Click on the letter to go to the term:
 <dl>
   <dt>Microservices</dt>
   <dd>Small, independently deployable services that work together to form complex applications. These services communicate with each other using language-independent APIs, making them easy to scale and deploy.</dd>
+
 </dl>
 
 <dl>
