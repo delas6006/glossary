@@ -1,5 +1,14 @@
 # Glossary of Cloud / SaaS Terms
-A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev and Jonathan Kemp worked on this.
+
+This project is a group project demonstrating creating content in Markdown. It contains a glossary of terms used in the Cloud and Software as a Service (SaaS) discipline. The project adds to the glossary of terms for Our Best Words.
+
+Click on the letter to go to the terms starting with that letter:
+[A](A-D.md#a) [B](A-D.md#a) [C](A-D.md#a) D E F [G](A-D.md#a) [H](A-D.md#a) [I](A-D.md#a) J K [L](A-D.md#a) [M](A-D.md#a) N [O](A-D.md#a) [P](A-D.md#a) Q R [S](A-D.md#a) T U V W X Y Z
+
+## Contributors
+
+* [Liat Regev](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Liat-Regev)
+* [Jonathan Kemp](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Jonathan-Kemp)
 
 ## A
 
@@ -60,6 +69,17 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 </dd>
 </dl>
 
+## E
+
+<dl>
+  <dt>Elasticity</dt>
+  <dd>Online cloud applications usage, that can be scaled to fit the demand for the service.</dd>
+</dl>
+<dl>
+  <dt>Extensibility</dt>
+  <dd>A cloud solution, which allows run time to be added and framework support, via community buildpacks.</dd>
+</dl>
+
 ## G
 
 <dl>
@@ -71,6 +91,13 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 <dl>
   <dt>Hybrid Cloud</dt>
   <dd>A cloud computing environment that combines a cloud server and a local server.</dd>
+</dl>
+
+## I
+
+<dl>
+  <dt>Infrastructure as a Service (IaaS)</dt>
+  <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
 </dl>
 
 ## L
@@ -93,24 +120,6 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
   <dd>An area, for holding packages of software that create a virtual operating system. These can then be accessed anywhere for limited tasks.</dd>
 </dl>
 
-## E
-
-<dl>
-  <dt>Elasticity</dt>
-  <dd>Online cloud applications usage, that can be scaled to fit the demand for the service.</dd>
-</dl>
-<dl>
-  <dt>Extensibility</dt>
-  <dd>A cloud solution, which allows run time to be added and framework support, via community buildpacks.</dd>
-</dl>
-
-## I
-
-<dl>
-  <dt>Infrastructure as a Service (IaaS)</dt>
-  <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
-</dl>
-
 ## M
 
 <dl>
@@ -121,6 +130,17 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 <dl>
   <dt>Microsoft Azure</dt>
   <dd>Microsoft's cloud computing service. Azure provides PaaS and IaaS services. It was originally launched as a PaaS solution but now provides both PaaS and IaaS.</dd>
+</dl>
+
+## O
+
+<dl>
+  <dt>On-Demand Self Service</dt>
+  <dd>A service, where a consumer can access software on the cloud without any human intervention.</dd>
+</dl>
+<dl>
+  <dt>On-Premise</dt>
+  <dd>Data servers, where a series of servers is owned privately, and privately controlled.</dd>
 </dl>
 
 ## P
@@ -151,15 +171,4 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
 <dl>
   <dt>Multi-Tenancy</dt>
   <dd>One instance of the software is accessed by several tenants linked together. It provides each tenant with access to data, configuration, user management, tenant individual functionality, and non-functional properties.</dd>
-</dl>
-
-## O
-
-<dl>
-  <dt>On-Demand Self Service</dt>
-  <dd>A service, where a consumer can access software on the cloud without any human intervention.</dd>
-</dl>
-<dl>
-  <dt>On-Premise</dt>
-  <dd>Data servers, where a series of servers is owned privately, and privately controlled.</dd>
 </dl>
