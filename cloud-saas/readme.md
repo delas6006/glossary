@@ -1,14 +1,18 @@
-# Glossary of Cloud / SaaS Terms
+# Glossary of Cloud / SaaS Terminology
+This glossary defines terms used in the Cloud and SaaS computing world. 
 
-This project is a group project demonstrating creating content in Markdown. It contains a glossary of terms used in the Cloud and Software as a Service (SaaS) discipline. The project adds to the glossary of terms for Our Best Words.
-
-Click on the letter to go to the terms starting with that letter:
-[A](A-D.md#a) [B](A-D.md#a) [C](A-D.md#a) D E F [G](A-D.md#a) [H](A-D.md#a) [I](A-D.md#a) J K [L](A-D.md#a) [M](A-D.md#a) N [O](A-D.md#a) [P](A-D.md#a) Q R [S](A-D.md#a) T U V W X Y Z
+The glossary is a team project for Our Best Words Technical Communication course. The project aims to show the contributors' skill at creating definitions and generating content in Markdown.
 
 ## Contributors
 
-* [Liat Regev](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Liat-Regev)
-* [Jonathan Kemp](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Jonathan-Kemp)
+The students who worked on this project include:
+
+* [Jonathan Kemp]( https://github.com/jonathan-t-kemp)
+* [Liat Regev]( https://github.com/liat-regev)
+
+Click on the letter to go to the term:  
+[A](#a) [B](#b) [C](#c) D [E](#e) F [G](#g) [H](#h) [I](#i) J K [L](#l) [M](#m) N [O](#o) [P](#p) Q R [S](#s) T U V W X Y Z
+
 
 ## A
 
@@ -28,6 +32,11 @@ Click on the letter to go to the terms starting with that letter:
 ## C
 
 <dl>
+<dt>Cloud Backup</dt>
+  <dd>A service, in which an organization's data is copied and stored on a remote server, typically in the cloud.</dd>
+</dl>
+	
+<dl>
    <dt>Cloud Computing</dt>
    <dd>	A way of delivering data and software via the internet (“the cloud”). In cloud computing, infrastructure, data, and software are hosted by a service provider, which delivers these services to users.
 	</dd>
@@ -38,6 +47,11 @@ Click on the letter to go to the terms starting with that letter:
   <dd>Software that allows users to manage their different cloud environments (public, private, and hybrid cloud) from one console.</dd>
 </dl>
 
+<dl>
+  <dt>Cloud Marketplace</dt>
+  <dd>An online store, operated by a Cloud Service Provider (CSP). Users can browse and buy applications that run on a cloud service, or subscribe to software. Examples are Amazon’s AWS marketplace and Microsoft’s Azure marketplace.</dd>
+</dl>
+	
 <dl>
   <dt>Cloud Migration</dt>
   <dd>The process of transferring a company’s data and applications from the company’s local servers to the cloud, or moving them from one cloud environment to another (cloud-to-cloud migration).</dd>
@@ -61,6 +75,16 @@ Click on the letter to go to the terms starting with that letter:
 <dl>
   <dt>Cloud Storage</dt>
   <dd>A way of saving data on online servers managed by a cloud service provider.</dd>
+</dl>
+
+<dl>
+  <dt>Cloud Washing</dt>
+  <dd>A term, that suggests that an old product has been brought back and now exists within the cloud. To piggyback on the popularity of cloud services.</dd>
+</dl>
+	
+<dl>
+  <dt>Container</dt>
+  <dd>An area, for holding packages of software that create a virtual operating system. These can then be accessed anywhere for limited tasks.</dd>
 </dl>
 
 <dl>
@@ -92,6 +116,13 @@ Click on the letter to go to the terms starting with that letter:
   <dt>Hybrid Cloud</dt>
   <dd>A cloud computing environment that combines a cloud server and a local server.</dd>
 </dl>
+	
+## I
+
+<dl>
+  <dt>Infrastructure as a Service (IaaS)</dt>
+  <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
+</dl>
 
 ## I
 
@@ -104,32 +135,28 @@ Click on the letter to go to the terms starting with that letter:
 <dl>
   <dt>Load Balancing </dt>
   <dd>The process of distributing computing workloads across multiple resources, such as servers. In cloud computing, a load balancer acts as a reverse proxy and distributes application traffic to multiple servers in order to prevent any single application server from becoming a point of failure.</dd>
-  <dt>Cloud Backup</dt>
-  <dd>A service, in which an organization's data is copied and stored on a remote server, typically in the cloud.</dd>
-</dl>
-<dl>
-  <dt>Cloud Marketplace</dt>
-  <dd>An online store, operated by a Cloud Service Provider (CSP). Users can browse and buy applications that run on a cloud service, or subscribe to software. Examples are Amazon’s AWS marketplace and Microsoft’s Azure marketplace.</dd>
-</dl>
-<dl>
-  <dt>Cloud Washing</dt>
-  <dd>A term, that suggests that an old product has been brought back and now exists within the cloud. To piggyback on the popularity of cloud services.</dd>
-</dl>
-<dl>
-  <dt>Container</dt>
-  <dd>An area, for holding packages of software that create a virtual operating system. These can then be accessed anywhere for limited tasks.</dd>
-</dl>
 
 ## M
 
 <dl>
   <dt>Microservices</dt>
   <dd>Small, independently deployable services that work together to form complex applications. These services communicate with each other using language-independent APIs, making them easy to scale and deploy.</dd>
+
 </dl>
 
 <dl>
   <dt>Microsoft Azure</dt>
   <dd>Microsoft's cloud computing service. Azure provides PaaS and IaaS services. It was originally launched as a PaaS solution but now provides both PaaS and IaaS.</dd>
+</dl>
+
+<dl>
+<dt>Multi-Cloud</dt>
+  <dd>Cloud storage, where a company uses at least two suppliers. This is to reduce the reliance on one system.</dd>
+</dl>
+
+<dl>
+  <dt>Multi-Tenancy</dt>
+  <dd>One instance of the software is accessed by several tenants linked together. It provides each tenant with access to data, configuration, user management, tenant individual functionality, and non-functional properties.</dd>
 </dl>
 
 ## O
@@ -165,10 +192,4 @@ Click on the letter to go to the terms starting with that letter:
 <dl>
   <dt>Software as a Service (SaaS)</dt>
   <dd>A type of cloud computing service that provides a cloud application to end users through a network, usually the internet. SaaS applications are hosted by a vendor and provided to end users on a pay-for-use basis or as a subscription.</dd>
-  <dt>Multi-Cloud</dt>
-  <dd>Cloud storage, where a company uses at least two suppliers. This is to reduce the reliance on one system.</dd>
-</dl>
-<dl>
-  <dt>Multi-Tenancy</dt>
-  <dd>One instance of the software is accessed by several tenants linked together. It provides each tenant with access to data, configuration, user management, tenant individual functionality, and non-functional properties.</dd>
-</dl>
+
