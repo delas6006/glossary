@@ -1,31 +1,39 @@
                 		GLOSSARY OF FINTECH TECHNOLOGY
 
-Glossary of FinTech Technology   	
+Glossary of FinTech Technology
+
 This glossary consists of terms and definitions that are relevant to FinTech Technology. It is a quick and dynamic reference for students and those interested in FinTech Technology.
 The Glossary is a project at Our Best Words Communications Course and indicates the ability to generate content in Markdown, and create glossaries of technical terminology in different fields.
 
 Contributor:
-Debbie Mankowitz              
+Debbie Mankowitz 
+
 Click on the letter to go to the term-
-A   B   C   D   E   F   G  H   I   J  K   L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+
+ [A](a)  [B](b)   [C](c)   [D](d)   [E](e)   [F](f)  [G](g) [H](h)  [I](i)  [J](j)  [K](k)  [L](l) [M](m)  [N](n)  [O](o) [P](p)  [Q](q) [R](r)  [S](s) [T](t)  [U](u) [V](v)  [W](w)  [X](x)  [Y](y)  [Z](z)
 
 A
+
 ALTERNATIVE FINANCE
 The term "alternative finance" refers to various financing options that are not standard (stocks, bonds, cash). Peer-to-peer lending and crowdfunding are examples of the financial products, instruments, and techniques that fall under this umbrella term created outside the conventional financial services sector.
 APPLICATION PROGRAMMING INTERFACE (API)
 A set of procedures, protocols, and tools known as an application programming interface (API) are used to create software programs that essentially enable different systems or applications to "talk" to one another. According to the demands of the user, API enables program modification and can speed up routine tasks.
 
 B
+
 BITCOIN
 Bitcoin is the original digital asset referred to as a virtual or digital currency. It is like an online version of cash. In some instances, one can use it to buy products and services.
 BLOCKCHAIN
 A blockchain is a distributed database or ledger shared among a computer network's nodes. As a database, a blockchain stores information electronically in a digital format which requires entries to be confirmed and encrypted via an advanced encryption technique called cryptography. The innovation of a blockchain is that it guarantees the fidelity and security of a record of data and is best known for its crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions.
 
 C
+
 CRYPTOCURRENCY
 
 A cryptocurrency is a digital currency, an alternative form of payment created using encryption algorithms. Encryption technologies mean that cryptocurrencies function both as a currency and a virtual accounting system. Examples of a cryptocurrency include Bitcoin and Ether.
+
 D
+
 DIGITAL ASSET
 
 In the context of blockchain, digital assets include cryptocurrency and tokens; a non-tangible asset is created, traded, and stored digitally. Anything in digital form could create value via tokenization on a blockchain.
@@ -78,10 +86,19 @@ Smart contracts are blockchain-based algorithms put into effect when meeting spe
 
 STABLECOIN
 A digital asset whose value is pegged to a fiat currency (e.g., U.S. Dollar) and is collateralized by “cash”, securities or both.
+
+T
+
 TOKENS
 Are units of value that blockchain-based organizations or projects develop on top of existing blockchain networks. While they often share deep compatibility with the cryptocurrencies of that network, they are a wholly different digital asset class. Cryptocurrencies are the native asset of a specific blockchain protocol, whereas tokens are created by platforms that build on top of those blockchains. For example, a stablecoin such as Gemini dollar1 is a token on the Ethereum network but Ether is the cryptocurrency on the network.
+
+V
+
 VIRTUAL CURRENCY
 A digital representation of value used as a medium of exchange, a unit of account, or a store of value, but does not have legal tender status as recognized by the United States government.
+
+W
+
 WALLET
 the digital home for your digital assets. It is generally an application (app) or web-based way to store cryptocurrencies. Wallets manage and store users’ public and private keys.
 
